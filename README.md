@@ -11,4 +11,4 @@ To add the program to Claws-Mail go to *Configuration->Actions...* and create a 
 
 Now you can create a task for the selected mail by calling *Tools-&gt;Actions-&gt;&lt;The_name_you_chose_for_the_action&gt;*. Additionally Claws-Mail also allows you to create a short-cut to execute the action.
 
-To go back from the Mail to the ToDo.txt item you need this extensions for ToDo.txt https://github.com/schiesbn/todotxt
+To go back from the Mail to the ToDo.txt item you need this [ToDo.txt extensions](https://github.com/schiesbn/todotxt).
