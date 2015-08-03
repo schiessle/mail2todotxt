@@ -20,7 +20,7 @@ from gi.repository import Gtk
 class DialogTaskDescription(Gtk.Dialog):
 
 	def __init__(self):
-		Gtk.Dialog.__init__(self, "Create ToDo.txt Entry", 0, 0,
+		Gtk.Dialog.__init__(self, "Create ToDo.txt Entry", None, 0,
 							(Gtk.STOCK_CANCEL, Gtk.ResponseType.CANCEL,
 							 Gtk.STOCK_OK, Gtk.ResponseType.OK))
 
